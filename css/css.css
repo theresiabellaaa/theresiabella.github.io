@@ -9,7 +9,8 @@
     
     .active {
         border-bottom: 2px solid white !important;
-        font-family: Montserrat Medium;
+        font-family: Montserrat;
+        font-weight: bold;
     }
     
     .nav-item {
