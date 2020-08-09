@@ -16,6 +16,10 @@
         font-family: Montserrat Light;
     }
     
+    .nav-item:hover {
+        border-bottom: 2px solid gray !important;
+    }
+    
     nav>div>ul>li {
         padding-left: 1rem;
         padding-right: 1rem;
