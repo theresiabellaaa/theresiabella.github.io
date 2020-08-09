@@ -1,0 +1,46 @@
+body {
+    background: #181B22;
+    padding: 20px;
+}
+
+nav:hover {
+    color: white;
+}
+
+.nav-link:hover {
+    color: gray;
+    border-bottom: 2px solid gray !important;
+}
+
+.nav-item {
+    font-family: Montserrat Light;
+}
+
+.active {
+    border-bottom: 2px solid white !important;
+    font-family: Montserrat Medium;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.text-header {
+    font-family: Montserrat SemiBold;
+    font-size: 40pt;
+}
+
+.text-detail {
+    font-family: Montserrat Light;
+    font-size: 30pt;
+}
+
+.text-quotes {
+    font-family: Montserrat Light;
+    font-size: 12pt;
+}
+
+.mx-6 {
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
