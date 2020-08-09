@@ -38,9 +38,29 @@ nav:hover {
 .text-quotes {
     font-family: Montserrat Light;
     font-size: 12pt;
+    width: 75%;
+    float: right;
 }
 
 .mx-6 {
     margin-left: 8rem;
     margin-right: 8rem;
+}
+
+.social-links li {
+    display: inline-block;
+}
+
+.left-content {
+    z-index: 1;
+}
+
+.me {
+    opacity: 1;
+}
+
+@media (max-width: 991px) {
+    .me {
+        opacity: 0.5;
+    }
 }
